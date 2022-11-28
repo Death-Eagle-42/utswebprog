@@ -1,0 +1,24 @@
+.center {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.text1 {
+    text-align: left;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+    line-height: 80%;
+    padding-top: 10px;
+}
+
+.text2 {
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    line-height: 80%;
+}
+
+.white_space {
+    background-color: white;
+}
