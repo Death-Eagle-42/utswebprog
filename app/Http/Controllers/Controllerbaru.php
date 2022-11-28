@@ -35,7 +35,6 @@ class Controllerbaru extends Controller
           return view('category', compact('category'));
     }
 
-        # for adding data via webpage create // manually
     public function createbook(){
 		return view('createbook');
 	}
